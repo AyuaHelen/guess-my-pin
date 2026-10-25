@@ -1,4 +1,4 @@
-# Guess My PIN
+# Guess My PINN
 
 A terminal game written in Kotlin. The computer picks a secret 3-digit number (100 to 999), and you have 7 attempts to guess it.
 
